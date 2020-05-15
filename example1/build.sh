@@ -1,0 +1,1 @@
+docker build -t lf/example1:devel .
